@@ -14,7 +14,7 @@ const Feeds = () => {
     <>
       <div className='flex justify-center border-1 p-10'>
         <img src="smiley.gif" alt="post" /> 
-        post1
+        
       </div>
     </>
   )
